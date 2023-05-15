@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+/*PARRAFOS DE CONTACTO */
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+/*ITEMS CONTACTO */
+.form-check{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif
+}
+/*BODY DE CONTACTOS*/
+.bodycontacto{
+    background-image: url("./imagenes/117396568_740221740144525_1399074358362280457_n.jpg");
+    background-size: cover;
+    
+}
+/*DISEÑO DE FOOTER*/
+footer{
+    background-color: rgb(4, 4, 4);
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+
+}
+main{
+    padding: 50px;
+
+}
+header{
+    background-color: black;
+    height: 120px;
+}
+.logo{
+    float: center;
+    text-align: center;
+}
